@@ -1,4 +1,4 @@
-function() {
+(function() {
  var a = function(a) {
    return document.querySelector(a)
   },
